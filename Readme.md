@@ -73,9 +73,9 @@ For inquiries →  [cyberdudenetworks.com](https://cyberdudenetworks.com)
 
 | Task | Project Name              | Live Demo                                      | Folder                                  |
 |------|---------------------------|------------------------------------------------|-----------------------------------------|
-| 01   | Visiting Card             | [View](https://deva-p-stack.github.io/Cyberdude-Challenges-/html-and-css/task-1) | [`/html-and-css/task-1`](./html-and-css/task-1) |
-| 02   | Personal Portfolio        | [View ](https://deva-p-stack.github.io/Cyberdude-Challenges-/html-and-css/task-2) | [`/html-and-css/task-2`](./html-and-css/task-2) |
-| 03   | Course Landing Page       | [View ](https://deva-p-stack.github.io/Cyberdude-Challenges-/html-and-css/task-3)   | [`/html-and-css/task-3`](./html-and-css/task-3) |
+| 01   | Visiting Card             | [View](https://deva-p-stack.github.io/Cyberdude-Challenges-/html-css/task-1) | [`/html-css/task-1`](./html-css/task-1) |
+| 02   | Personal Portfolio        | [View ](https://deva-p-stack.github.io/Cyberdude-Challenges-/html-css/task-2) | [`/html-css/task-2`](./html-css/task-2) |
+| 03   | Course Landing Page       | [View ](https://deva-p-stack.github.io/Cyberdude-Challenges-/html-css/task-3)   | [`/html-css/task-3`](./html-css/task-3) |
 ---
 
 ## How to Run Locally

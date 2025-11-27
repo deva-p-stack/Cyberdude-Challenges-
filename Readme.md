@@ -65,7 +65,7 @@ For inquiries →  [cyberdudenetworks.com](https://cyberdudenetworks.com)
 
 | S.No | Technology / Tool       | Description |
 | :--- | ---------------------- | ----------- |
-| 01   | [HTML & CSS](./html-and-css/) | Used to build responsive web pages and UI components |
+| 01   | [HTML & CSS](./html-css/) | Used to build responsive web pages and UI components |
 
 ---
 
